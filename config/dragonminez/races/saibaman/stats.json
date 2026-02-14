@@ -1,0 +1,68 @@
+{
+  "warrior": {
+    "baseStats": {
+      "STR": 10,
+      "SKP": 5,
+      "RES": 10,
+      "VIT": 10,
+      "PWR": 5,
+      "ENE": 5
+    },
+    "statScaling": {
+      "STR_scaling": 1.0,
+      "SKP_scaling": 0.75,
+      "STM_scaling": 0.75,
+      "DEF_scaling": 1.25,
+      "VIT_scaling": 1.5,
+      "PWR_scaling": 0.5,
+      "ENE_scaling": 1.0
+    },
+    "healthRegenRate": 0.003,
+    "energyRegenRate": 0.008,
+    "staminaRegenRate": 0.012
+  },
+  "spiritualist": {
+    "baseStats": {
+      "STR": 5,
+      "SKP": 10,
+      "RES": 5,
+      "VIT": 5,
+      "PWR": 10,
+      "ENE": 10
+    },
+    "statScaling": {
+      "STR_scaling": 0.5,
+      "SKP_scaling": 0.5,
+      "STM_scaling": 0.25,
+      "DEF_scaling": 1.0,
+      "VIT_scaling": 1.0,
+      "PWR_scaling": 1.0,
+      "ENE_scaling": 1.5
+    },
+    "healthRegenRate": 0.002,
+    "energyRegenRate": 0.015,
+    "staminaRegenRate": 0.008
+  },
+  "martialArtist": {
+    "baseStats": {
+      "STR": 5,
+      "SKP": 10,
+      "RES": 10,
+      "VIT": 10,
+      "PWR": 5,
+      "ENE": 5
+    },
+    "statScaling": {
+      "STR_scaling": 0.75,
+      "SKP_scaling": 1.0,
+      "STM_scaling": 1.0,
+      "DEF_scaling": 1.5,
+      "VIT_scaling": 1.75,
+      "PWR_scaling": 0.75,
+      "ENE_scaling": 1.25
+    },
+    "healthRegenRate": 0.0035,
+    "energyRegenRate": 0.008,
+    "staminaRegenRate": 0.009
+  }
+}

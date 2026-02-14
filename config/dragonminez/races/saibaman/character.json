@@ -1,0 +1,36 @@
+{
+  "raceName": "saibaman",
+  "hasGender": true,
+  "useVanillaSkin": false,
+  "customModel": "saibaman",
+  "defaultModelScaling": [
+    0.9375,
+    0.9375,
+    0.9375
+  ],
+  "defaultBodyType": 0,
+  "defaultHairType": 1,
+  "canUseHair": true,
+  "defaultEyesType": 0,
+  "defaultNoseType": 0,
+  "defaultMouthType": 0,
+  "defaultTattooType": 0,
+  "defaultBodyColor": "#FFD3C9",
+  "defaultBodyColor2": "#FFD3C9",
+  "defaultBodyColor3": "#FFD3C9",
+  "defaultHairColor": "#0E1011",
+  "defaultEye1Color": "#0E1011",
+  "defaultEye2Color": "#0E1011",
+  "defaultAuraColor": "#7FFFFF",
+  "superformTpCost": [
+    20000,
+    40000,
+    60000
+  ],
+  "godformTpCost": [
+    100000,
+    150000,
+    200000
+  ],
+  "legendaryformsTpCost": []
+}
